@@ -23,8 +23,8 @@
 
 1. 克隆代码库到本地机器：
 ```bash
-git clone https://github.com/你的用户名/你的仓库名.git
-cd 你的仓库名
+git clone https://github.com/David-Guo/skymsgborad.git
+cd skymsgborad
 ```
 
 2. 安装所需依赖：
